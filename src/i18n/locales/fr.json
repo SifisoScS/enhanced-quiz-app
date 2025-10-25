@@ -1,0 +1,91 @@
+{
+  "appTitle": "Application de Quiz Améliorée",
+  "tagline": "Maîtrisez Vos Connaissances",
+  "description": "Testez vos connaissances avec notre plateforme de quiz interactive avec plusieurs catégories et langues",
+  
+  "navigation": {
+    "home": "Accueil",
+    "categories": "Catégories",
+    "about": "À propos"
+  },
+  
+  "categories": {
+    "title": "Choisissez Votre Catégorie de Quiz",
+    "academic": "Excellence Académique",
+    "academicDesc": "Quiz structurés pour les étudiants par niveau scolaire",
+    "general": "Culture Générale",
+    "generalDesc": "Quiz amusants et engageants pour tous",
+    "competitive": "Jeux Compétitifs",
+    "competitiveDesc": "Compétitionnez mondialement et grimpez dans le classement",
+    "science": "Science et Technologie",
+    "scienceDesc": "Explorez le monde de la science et de l'innovation",
+    "history": "Histoire et Culture",
+    "historyDesc": "Voyagez à travers le temps et les civilisations",
+    "sports": "Sports et Divertissement",
+    "sportsDesc": "Testez vos connaissances en sports et culture populaire"
+  },
+  
+  "quiz": {
+    "startQuiz": "Commencer le Quiz",
+    "submitAnswer": "Soumettre la Réponse",
+    "nextQuestion": "Question Suivante",
+    "previousQuestion": "Question Précédente",
+    "timeLeft": "Temps Restant",
+    "question": "Question",
+    "of": "de",
+    "score": "Score",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "total": "Total",
+    "percentage": "Pourcentage"
+  },
+  
+  "results": {
+    "quizComplete": "Quiz Terminé !",
+    "yourScore": "Votre Score",
+    "outOf": "sur",
+    "correctAnswers": "réponses correctes",
+    "excellent": "Excellent ! Performance exceptionnelle !",
+    "great": "Bon travail ! Bien joué !",
+    "good": "Bon effort ! Continuez à pratiquer !",
+    "keepLearning": "Continuez à apprendre ! Vous ferez mieux la prochaine fois !",
+    "reviewAnswers": "Réviser Vos Réponses",
+    "yourAnswer": "Votre réponse",
+    "correctAnswer": "Réponse correcte",
+    "noAnswer": "Aucune réponse",
+    "takeAgain": "Reprendre le Quiz",
+    "backToCategories": "Retour aux Catégories"
+  },
+  
+  "ui": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "retry": "Réessayer",
+    "back": "Retour",
+    "next": "Suivant",
+    "finish": "Terminer",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "close": "Fermer",
+    "save": "Sauvegarder",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "settings": "Paramètres",
+    "language": "Langue",
+    "theme": "Thème",
+    "lightMode": "Mode Clair",
+    "darkMode": "Mode Sombre"
+  },
+  
+  "rules": {
+    "title": "Règles du Quiz",
+    "timeLimit": "Chaque question a une limite de temps de 30 secondes",
+    "multipleChoice": "Choisissez la meilleure réponse parmi 4 options",
+    "scoring": "Vous verrez votre score à la fin",
+    "noGoingBack": "Impossible de revenir aux questions précédentes"
+  }
+}
+

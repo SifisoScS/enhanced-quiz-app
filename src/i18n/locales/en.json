@@ -1,0 +1,91 @@
+{
+  "appTitle": "Enhanced Quiz App",
+  "tagline": "Master Your Knowledge",
+  "description": "Test your knowledge with our interactive quiz platform featuring multiple categories and languages",
+  
+  "navigation": {
+    "home": "Home",
+    "categories": "Categories",
+    "about": "About"
+  },
+  
+  "categories": {
+    "title": "Choose Your Quiz Category",
+    "academic": "Academic Excellence",
+    "academicDesc": "Structured quizzes for students by grade level",
+    "general": "General Knowledge",
+    "generalDesc": "Fun and engaging quizzes for everyone",
+    "competitive": "Competitive Gaming",
+    "competitiveDesc": "Compete globally and climb the leaderboard",
+    "science": "Science & Technology",
+    "scienceDesc": "Explore the world of science and innovation",
+    "history": "History & Culture",
+    "historyDesc": "Journey through time and civilizations",
+    "sports": "Sports & Entertainment",
+    "sportsDesc": "Test your knowledge of sports and pop culture"
+  },
+  
+  "quiz": {
+    "startQuiz": "Start Quiz",
+    "submitAnswer": "Submit Answer",
+    "nextQuestion": "Next Question",
+    "previousQuestion": "Previous Question",
+    "timeLeft": "Time Left",
+    "question": "Question",
+    "of": "of",
+    "score": "Score",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "total": "Total",
+    "percentage": "Percentage"
+  },
+  
+  "results": {
+    "quizComplete": "Quiz Complete!",
+    "yourScore": "Your Score",
+    "outOf": "out of",
+    "correctAnswers": "correct answers",
+    "excellent": "Excellent! Outstanding performance!",
+    "great": "Great job! Well done!",
+    "good": "Good effort! Keep practicing!",
+    "keepLearning": "Keep learning! You'll do better next time!",
+    "reviewAnswers": "Review Your Answers",
+    "yourAnswer": "Your answer",
+    "correctAnswer": "Correct answer",
+    "noAnswer": "No answer",
+    "takeAgain": "Take Quiz Again",
+    "backToCategories": "Back to Categories"
+  },
+  
+  "ui": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "settings": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode"
+  },
+  
+  "rules": {
+    "title": "Quiz Rules",
+    "timeLimit": "Each question has 30 seconds time limit",
+    "multipleChoice": "Choose the best answer from 4 options",
+    "scoring": "You'll see your score at the end",
+    "noGoingBack": "No going back to previous questions"
+  }
+}
+

@@ -1,0 +1,91 @@
+{
+  "appTitle": "Erweiterte Quiz-App",
+  "tagline": "Meistern Sie Ihr Wissen",
+  "description": "Testen Sie Ihr Wissen mit unserer interaktiven Quiz-Plattform mit mehreren Kategorien und Sprachen",
+  
+  "navigation": {
+    "home": "Startseite",
+    "categories": "Kategorien",
+    "about": "Über uns"
+  },
+  
+  "categories": {
+    "title": "Wählen Sie Ihre Quiz-Kategorie",
+    "academic": "Akademische Exzellenz",
+    "academicDesc": "Strukturierte Quiz für Schüler nach Klassenstufe",
+    "general": "Allgemeinwissen",
+    "generalDesc": "Spaßige und ansprechende Quiz für alle",
+    "competitive": "Wettbewerbsspiele",
+    "competitiveDesc": "Konkurrieren Sie global und klettern Sie die Bestenliste hoch",
+    "science": "Wissenschaft und Technologie",
+    "scienceDesc": "Erkunden Sie die Welt der Wissenschaft und Innovation",
+    "history": "Geschichte und Kultur",
+    "historyDesc": "Reisen Sie durch Zeit und Zivilisationen",
+    "sports": "Sport und Unterhaltung",
+    "sportsDesc": "Testen Sie Ihr Wissen über Sport und Popkultur"
+  },
+  
+  "quiz": {
+    "startQuiz": "Quiz Starten",
+    "submitAnswer": "Antwort Abschicken",
+    "nextQuestion": "Nächste Frage",
+    "previousQuestion": "Vorherige Frage",
+    "timeLeft": "Verbleibende Zeit",
+    "question": "Frage",
+    "of": "von",
+    "score": "Punktzahl",
+    "correct": "Richtig",
+    "incorrect": "Falsch",
+    "total": "Gesamt",
+    "percentage": "Prozent"
+  },
+  
+  "results": {
+    "quizComplete": "Quiz Abgeschlossen!",
+    "yourScore": "Ihre Punktzahl",
+    "outOf": "von",
+    "correctAnswers": "richtige Antworten",
+    "excellent": "Ausgezeichnet! Hervorragende Leistung!",
+    "great": "Gute Arbeit! Gut gemacht!",
+    "good": "Gute Anstrengung! Üben Sie weiter!",
+    "keepLearning": "Lernen Sie weiter! Beim nächsten Mal werden Sie besser sein!",
+    "reviewAnswers": "Ihre Antworten Überprüfen",
+    "yourAnswer": "Ihre Antwort",
+    "correctAnswer": "Richtige Antwort",
+    "noAnswer": "Keine Antwort",
+    "takeAgain": "Quiz Wiederholen",
+    "backToCategories": "Zurück zu Kategorien"
+  },
+  
+  "ui": {
+    "loading": "Wird geladen...",
+    "error": "Fehler",
+    "retry": "Wiederholen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "finish": "Beenden",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "close": "Schließen",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "search": "Suchen",
+    "filter": "Filter",
+    "sort": "Sortieren",
+    "settings": "Einstellungen",
+    "language": "Sprache",
+    "theme": "Design",
+    "lightMode": "Heller Modus",
+    "darkMode": "Dunkler Modus"
+  },
+  
+  "rules": {
+    "title": "Quiz-Regeln",
+    "timeLimit": "Jede Frage hat ein Zeitlimit von 30 Sekunden",
+    "multipleChoice": "Wählen Sie die beste Antwort aus 4 Optionen",
+    "scoring": "Sie sehen Ihre Punktzahl am Ende",
+    "noGoingBack": "Kein Zurückgehen zu vorherigen Fragen"
+  }
+}
+
